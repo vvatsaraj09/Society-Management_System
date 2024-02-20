@@ -19,7 +19,7 @@ Authentication: Firebase Authentication
 Data Storage: Firebase Firestore (for documents, images, and data)
 
 ### Installation and Deployment
-Clone the Repository: Clone the Societify repository from GitHub.
-Set Up Firebase: Create a Firebase project and set up authentication and Firestore database as per the provided documentation.
-Configure Firebase: Update the Firebase configuration file with your project's credentials.
-Build and Run: Use Flutter to build the project and run the Societify app on your local machine or deploy it to your preferred mobile platform.
+1) Clone the Repository: Clone the Societify repository from GitHub.
+2) Set Up Firebase: Create a Firebase project and set up authentication and Firestore database as per the provided documentation.
+3) Configure Firebase: Update the Firebase configuration file with your project's credentials.
+4) Build and Run: Use Flutter to build the project and run the Societify app on your local machine or deploy it to your preferred mobile platform.
